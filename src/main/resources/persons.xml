@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons country="CN">
+	<person gender="1">
+		<name>jason</name>
+		<age>28</age>
+	</person>
+	<person gender="0">
+		<name>salk</name>
+		<age>29</age>
+	</person>
+</persons>
